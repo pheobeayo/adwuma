@@ -3,6 +3,8 @@ import React from "react";
 import topone from "../../assets/top/topone.svg";
 import toptwo from "../../assets/top/toptwo.svg";
 import topthree from "../../assets/top/topthree.svg";
+import topfour from "../../assets/top/topfour.svg";
+import topfive from "../../assets/top/topfive.svg";
 import { StarIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -21,6 +23,16 @@ const Toptalents = () => {
     },
     {
       image: topthree,
+      title: "Web3 design",
+      ratings: 2.1,
+    },
+    {
+      image: topfour,
+      title: "Web3 design",
+      ratings: 2.1,
+    },
+    {
+      image: topfive,
       title: "Web3 design",
       ratings: 2.1,
     },

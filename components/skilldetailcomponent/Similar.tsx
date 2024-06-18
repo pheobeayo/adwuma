@@ -1,7 +1,8 @@
 import Link from "next/link";
 import React from "react";
-import SkillImg1 from "../../assets/skills/skills1.svg";
-import SkillImg2 from "../../assets/skills/skills2.svg";
+import blockchain from "../../assets/skills/blockchain.svg";
+import crossborder from "../../assets/skills/crossborder.svg";
+import cybersecurity from "../../assets/skills/cybersecurity.svg";
 import SkillImg3 from "../../assets/circles/circlesimg1.svg";
 import { StarIcon } from "@heroicons/react/24/solid";
 import Image from "next/image";
@@ -10,17 +11,23 @@ import { Swiper, SwiperSlide } from "swiper/react";
 const Similar = () => {
   const skills = [
     {
-      image: SkillImg1,
-      title: "Graphic Design",
+      image: blockchain,
+      title: "Block Chain development",
       description:
-        "Professional graphic design services to elevate your brand.",
+        "Build Your Blockchain Applications with Great Ease.",
       ratings: 3.8,
     },
     {
-      image: SkillImg2,
-      title: "Web Development",
-      description: "Custom websites and web applications.",
+      image: crossborder,
+      title: "Cross Border Permisonless Payments",
+      description: "Custom Cross Border Payments.",
       ratings: 4.7,
+    },
+    {
+      image: cybersecurity,
+      title: "Cyber Security and Account Protection",
+      description: "Protect your mobile and web game applications from cyber robbers.",
+      ratings: 2.1,
     },
     {
       image: SkillImg3,
@@ -28,6 +35,7 @@ const Similar = () => {
       description: "Custom games and web game applications.",
       ratings: 2.1,
     },
+   
   ];
 
   return (

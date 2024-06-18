@@ -12,7 +12,7 @@ const Circles = () => {
   const circles = [
     {
       image: CircleImg1,
-      title: "Web Developers",
+      title: "BlockChain Developers",
       people: "120",
       posts: "5",
     },
@@ -24,7 +24,13 @@ const Circles = () => {
     },
     {
       image: CircleImg1,
-      title: "Graphic Designers",
+      title: "Web3 UI/UX Designers",
+      people: "12",
+      posts: "7",
+    },
+    {
+      image: CircleImg1,
+      title: "Web3 UI/UX Designers",
       people: "12",
       posts: "7",
     },

@@ -20,12 +20,13 @@ const Info = () => {
 
       <div className="mt-7">
         <h2 className="text-[#3D3D3D] font-semibold text-sm">
-          Professional Logo Design
+        Background
         </h2>
         <p className="text-[#666666] text-xs mt-2">
-          I specialize in creating unique and professional logos that make your
-          brand stand out. With over 5 years of experience in graphic design, I
-          have helped numerous clients enhance their brand identity.
+        As an Expert Smart Contract Developer, I specialize in creating secure, 
+        efficient, and innovative blockchain solutions. With extensive experience 
+        in developing, auditing, and deploying smart contracts, I bring a wealth of knowledge 
+        and technical expertise to every project.
         </p>
         <div className="flex justify-between mt-3">
           <p className="text-xs text-[#666666] font-semibold">Price: </p>
