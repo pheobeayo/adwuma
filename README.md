@@ -1,4 +1,4 @@
-Skillswap
+Adwuma
 
 Welcome to Adwuma, a decentralized platform designed to revolutionize the way we exchange skills and services. SkillSwap leverages blockchain technology to create a secure and transparent environment where users can directly exchange skills and services with one another. Our platform emphasizes mutual learning and collaboration, allowing users to not only hire each other for various tasks but also to learn new skills from fellow community members.
 
