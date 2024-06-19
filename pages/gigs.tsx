@@ -1,9 +1,10 @@
 import NavBar from '@/components/NavBar'
 import Alert from '@/components/homecomponents/Alert'
-import SearchMessage from '@/components/messagecomponents/SearchMessage'
+import SearchGigs from '@/components/gigcomponents/Searchgigs'
 import React from 'react'
 
-const message = () => {
+
+const gigs = () => {
   return (
     <div className="max-w-md mx-auto ">
       <div className="fixed bottom-0 w-full z-10">
@@ -11,11 +12,10 @@ const message = () => {
       </div>
       <div className="px-3">
         <Alert />
-        <SearchMessage/>
-        
+        <SearchGigs/>
       </div>
     </div>
   )
 }
 
-export default message
+export default gigs

@@ -6,7 +6,6 @@ import CirclesIcon from "../assets/nav/circlesicon.svg";
 import HomeFilled from "../assets/nav/homefilled.svg";
 import SkillsFilled from "../assets/nav/skillsfilled.svg";
 import CirclesFilled from "../assets/nav/circlesfilled.svg";
-import MessageFilled from "../assets/nav/messagefilled.svg";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -45,7 +44,7 @@ const NavBar = () => {
     },
     {
       icon: SkillsIcon,
-      filledIcon: MessageFilled,
+      filledIcon: SkillsFilled,
       title: "Message",
       link: "/message",
     },
