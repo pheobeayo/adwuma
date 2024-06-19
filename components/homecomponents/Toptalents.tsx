@@ -44,7 +44,7 @@ const Toptalents = () => {
     <div className="pt-11">
       <div className="flex justify-between">
         <p className="text-sm text-[#888888] font-semibold">Top talents</p>
-        <Link href="/skills" className="text-sm text-[#2E0039]">
+        <Link href="/talents" className="text-sm text-[#2E0039]">
           View all
         </Link>
       </div>
@@ -52,7 +52,7 @@ const Toptalents = () => {
       <Swiper slidesPerView={2} spaceBetween={10} className="mySwiper">
         {toptalents.map((toptalent, index) => (
           <SwiperSlide key={index}>
-            <Link href="/skills/skilldetail" className="bg-[#F8F8F8] rounded-[8px] pb-2 mt-4">
+            <Link href="/talents/talentdetail" className="bg-[#F8F8F8] rounded-[8px] pb-2 mt-4">
               <Image
                 src={toptalent.image}
                 alt="skillimage_"

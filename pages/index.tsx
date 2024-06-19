@@ -18,9 +18,9 @@ const home = () => {
       <div className="px-3">
         <Alert />
         <Stats />
+        <Toptalents />
         <Skills />
         <Webgigs />
-        <Toptalents />
         <Workshops />
         <Circles />
       </div>
