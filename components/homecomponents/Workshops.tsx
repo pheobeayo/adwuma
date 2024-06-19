@@ -9,20 +9,20 @@ const Workshops = () => {
       title: "Blockchain Basics",
       image: WorkshopImg1,
       description: "A beginner's guide to blockchain technology.",
-      date: "June 10 2024",
+      date: "June 30 2024",
       time: "2:00 PM EST",
     },
     {
-      title: "Design Thinking",
+      title: "DESIGN AND UX IN WEB3",
       image: WorkshopImg2,
       description: "Learn how to apply design thinking principles.",
-      date: "June 15 2024",
+      date: "July 1st 2024",
       time: "4:00 PM EST",
     },
   ];
   return (
     <div className="pt-14">
-      <p className="text-sm text-[#888888] font-semibold">Workshops</p>
+      <p className="text-sm text-[#2E0039] font-semibold">Workshops</p>
 
       {workshops.map((workshop, index) => (
         <div key={index} className="rounded-[8px] pb-2 mt-4 bg-[#F8F8F8]">

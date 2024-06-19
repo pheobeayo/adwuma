@@ -21,9 +21,9 @@ const Stats = () => {
       title: "Workshops",
       amount: "0",
     },
-  ];
+  ]
   return (
-    <div className="bg-gradient-to-r from-[#9747FF] via-[#6A93FF] to-[#9747FF] text-[#EFEFEF] rounded-[6px] mt-4 px-3 py-5">
+    <div className="bg-gradient-to-r from-[#2E0039] via-[#9747FF] to-[#2E0039] text-[#EFEFEF] rounded-[6px] mt-4 px-3 py-5">
       <p className="text-xs mb-5">Quick Stats</p>
 
       <div className="flex justify-between">

@@ -1,14 +1,17 @@
+import Image from "next/image";
 import { useState } from "react";
 import Card from "./Card";
 import CardIcon from "../../assets/card/cardicon.svg"
 import CardIcon1 from "../../assets/card/cardicon1.svg"
 import CardIcon2 from "../../assets/card/cardicon2.svg"
 
+
 interface CardData {
   id: number;
   title: string;
   description: string;
   icon: string;
+  
 }
 
 type Props = {
@@ -18,24 +21,27 @@ type Props = {
 const cards: CardData[] = [
   {
     id: 1,
-    title: "Find Top Tech Talents for Your Projects",
+    title: "Talent",
     description:
-      "Create a profile and list the skills or services you offer. Browse skills offered by others.",
+      "I’m looking for exciting Web3 projects that match my  skills and interests.",
     icon: CardIcon,
+    
   },
   {
     id: 2,
-    title: "Exchange your crypto for valuable skills",
+    title: "Client",
     description:
-      "At a cost of a smooth transaction supported with Blockchain ",
+      "I’m looking to hire skilled professionals for my project? ",
     icon: CardIcon1,
+    
   },
   {
     id: 3,
-    title: "Learn and Collaborate",
+    title: "Explorer",
     description:
-      "Join skill circles, attend workshops, and access educational resources to enhance your skills and collaborate with others.",
+      "Searching for projects or exciting opportunities that match your skills and interests.",
     icon: CardIcon2,
+    
   },
 ];
 
@@ -74,6 +80,7 @@ const CardCarousel: React.FC<Props> = ({ handleShowProfile }: Props) => {
             Previous
           </button>
         )} */}
+        
         <button
           className="bg-gradient-to-b from-[#9747FF] via-[#6A93FF] to-[#9747FF] text-white w-[240px] h-[44px] px-4 py-2 rounded-[12px] ml-2"
           onClick={currentIndex === cards.length - 1 ? handleShowProfile : handleNext}

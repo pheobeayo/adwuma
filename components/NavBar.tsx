@@ -3,11 +3,10 @@ import React, { useState } from "react";
 import HomeIcon from "../assets/nav/homeicon.svg";
 import SkillsIcon from "../assets/nav/skillsicon.svg";
 import CirclesIcon from "../assets/nav/circlesicon.svg";
-import ProfileIcon from "../assets/nav/profileicon.svg";
 import HomeFilled from "../assets/nav/homefilled.svg";
 import SkillsFilled from "../assets/nav/skillsfilled.svg";
 import CirclesFilled from "../assets/nav/circlesfilled.svg";
-import ProfileFilled from "../assets/nav/profilefilled.svg";
+import MessageFilled from "../assets/nav/messagefilled.svg";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -34,35 +33,35 @@ const NavBar = () => {
     },
     {
       icon: CirclesIcon,
-      filledIcon: CirclesFilled,
+      filledIcon: SkillsFilled,
       title: "Talents",
       link: "/talents",
     },
     {
       icon: CirclesIcon,
       filledIcon: CirclesFilled,
-      title: "Circles",
-      link: "/circles",
+      title: "Communities",
+      link: "/communities",
     },
     {
-      icon: ProfileIcon,
-      filledIcon: ProfileFilled,
-      title: "Profile",
-      link: "/profile",
+      icon: SkillsIcon,
+      filledIcon: MessageFilled,
+      title: "Message",
+      link: "/message",
     },
   ];
   return (
-    <div className="flex justify-center items-center px-3 max-w-md shadow-2xl h-[80px] bg-white">
+    <div className="flex justify-center items-center px-3 max-w-md shadow-2xl h-[80px] bg-[#2E0039]">
       <div className="flex justify-between w-full">
         {navs.map((nav, index) => (
           <div
             key={index}
-            className="flex flex-col justify-center items-center text-[#888888]"
+            className="flex flex-col justify-center items-center text-white"
           >
             <Link
               href={nav.link}
               className={`flex flex-col justify-center items-center cursor-pointer ${
-                nav.title == active ? "text-[#6A93FF]" : "text-[#888888]"
+                nav.title == active ? "text-[#2E0039]" : "text-white"
               }`}
               onClick={() => setActive(nav.title)}
             >

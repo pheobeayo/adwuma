@@ -14,7 +14,7 @@ interface CardProps {
 
 const Card: React.FC<CardProps> = ({ card }) => (
   <div className="bg-white shadow-lg rounded-lg max-w-md mx-auto text-center">
-    <div className="bg-gradient-to-r from-[#9747FF] via-[#6A93FF] to-[#9747FF] rounded-t-lg flex items-end justify-center h-[240px]">
+    <div className="bg-[#2E0039] rounded-t-lg flex items-end justify-center h-[240px]">
       <div className="w-[120px] h-[120px] bg-white/20 rounded-[10px] border-[1px] border-white flex items-center justify-center -mb-4">
         <span className="w-[64px] h-[64px] flex justify-center items-center pb-4">
           <Image src={card.icon} alt="icon" />

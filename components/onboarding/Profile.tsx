@@ -139,7 +139,7 @@ const Profile = ({ handleSubmit }: Props) => {
         <div className="max-w-md mx-auto px-4 pt-6 pb-5">
           <button
             onClick={handleSubmit}
-            className="bg-[#9747FF] w-full text-white h-[44px] rounded-[12px] border-[#9747FF] border-2"
+            className="bg-[#2E0039] w-full text-white h-[44px] rounded-[12px] border-[#9747FF] border-2"
           >
             Save
           </button>

@@ -42,7 +42,7 @@ const Skills = () => {
     <div className="pt-11">
       <div className="flex justify-between">
         <p className="text-sm text-[#888888] font-semibold">Explore Skills</p>
-        <Link href="/skills" className="text-sm text-[#6A93FF]">
+        <Link href="/skills" className="text-sm text-[#2E0039]">
           View all
         </Link>
       </div>

@@ -10,7 +10,7 @@ export default function Header() {
   const { connect } = useConnect();
 
   return (
-    <Disclosure as="nav" className="bg-[#1E1E1E] border-b border-[#1E1E1E]">
+    <Disclosure as="nav" className="bg-[#2E0039] border-b border-[#2E0039]">
       {({ open }) => (
         <>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
