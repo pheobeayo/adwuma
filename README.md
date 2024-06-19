@@ -1,21 +1,19 @@
 Overview
 Welcome to the ADWUMA repository! This README provides an overview of ADWUMA, its purpose, features, installation instructions, and how to contribute to the project.
 
-Table of Contents
- [Introduction]
- (#introduction)
-
-## Introduction
-## Features
-## Use Cases
-User Stories
-Scenarios
-Getting Started
-Prerequisites
-Installation
-Usage
-Contributing
-License
+TABLE OF CONTENTS:
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Use Cases](#use-cases)
+4. [User Stories](#user-stories)
+5. [Scenarios](#scenarios)
+6. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+7. [Usage](#usage)
+8. [Contributing](#contributing)
+9. [License](#license)
 
 ## INTRODUCTION:
 Adwuma is a platform that allows tech professionals to find projects, get hired and get paid in Crypto as they complete projects in milestones.
