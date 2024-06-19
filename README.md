@@ -5,8 +5,8 @@ TABLE OF CONTENTS:
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Use Cases](#use-cases)
-4. [User Stories](#user-stories)
+3. [Use Cases For Adwuma](#use-cases)
+4. [User Stories For Adwuma](#user-stories)
 5. [Scenarios](#scenarios)
 6. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
@@ -41,7 +41,7 @@ They hire Ifeoluwa, a Skilled Product Designer from Africa, and manage project m
 
 
 
-### USER STORY FOR ADWUMA:
+### USER STORIES FOR ADWUMA:
 As a Tech Professional:
 
 I want to easily find projects that match my skills and interests.
