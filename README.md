@@ -1,8 +1,7 @@
 Overview
 Welcome to the ADWUMA repository! This README provides an overview of ADWUMA, its purpose, features, installation instructions, and how to contribute to the project.
 
-TABLE OF CONTENTS:
-## Table of Contents
+# TABLE OF CONTENTS:
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Use Cases](#use-cases)
@@ -15,19 +14,17 @@ TABLE OF CONTENTS:
 8. [Contributing](#contributing)
 9. [License](#license)
 
-## INTRODUCTION:
+# INTRODUCTION:
 Adwuma is a platform that allows tech professionals to find projects, get hired and get paid in Crypto as they complete projects in milestones.
 
-## FEATURES:
+# FEATURES:
  Project Matching: Match Tech professionals with suitable projects based on skills and experience.
  Milestone-Based Payments: Secure payments in cryptocurrencies released upon project milestones.
  Secure and Transparent Transactions: Utilize blockchain for secure and transparent project management and payments.
  Global Access: Accessible globally to tech professionals and employers alike.
  User-Friendly Interface: Intuitive interface for easy navigation and management of projects.
 
-
-
- ### USE CASES:
+# USE CASES:
 Tech Professional Use Case:
 
 Joy, a freelance developer from Africa, uses ADWUMA to find remote projects in blockchain development.
@@ -35,13 +32,13 @@ He completes milestones and receives payments in cryptocurrencies, ensuring secu
 
 Employer Use Case:
 
-XYZ Tech, a startup based in Europe, posts a project on ADWUMA requiring expertise in Product Design.
+Rubicon Consults, a startup based in Europe, posts a project on ADWUMA requiring expertise in Product Design.
 They hire Ifeoluwa, a Skilled Product Designer from Africa, and manage project milestones and payments securely through the platform.
 
 
 
 
-### USER STORIES:
+# USER STORIES:
 As a Tech Professional:
 
 I want to easily find projects that match my skills and interests.
@@ -54,8 +51,7 @@ I want to access a diverse pool of tech professionals from around the world.
 I want to manage project milestones and payments efficiently and securely.
 I want assurance that project milestones are completed as agreed upon.
 
-
-## SCENARIOS:
+# SCENARIOS:
 Scenario 1: Matching and Hiring
 
 Scenario: Ozioma, a tech recruiter, posts a project requirement on ADWUMA.
