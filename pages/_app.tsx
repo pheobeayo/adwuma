@@ -26,8 +26,8 @@ const connectors = connectorsForWallets(
     },
   ],
   {
-    appName: "Adwuma",
-    projectId: "044601f65212332475a09bc14ceb3c34",
+    appName: "adwuma",
+    projectId: "03c79037fcdf63ebafad8fb366264529",
   }
 );
 

@@ -2,7 +2,8 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import FeaturedImg1 from "../../assets/featured/featuredimg1.svg";
-import WorkshopImg1 from "../../assets/workshop/workshopimg1.svg";
+import FeaturedImg2 from "../../assets/featured/featuredimg2.svg";
+import FeaturedImg3 from "../../assets/featured/featuredimg3.svg";
 import Image from "next/image";
 import { StarIcon } from "@heroicons/react/24/solid";
 import Link from "next/link";
@@ -11,25 +12,25 @@ const Featured = () => {
   const skills = [
     {
       image: FeaturedImg1,
-      title: "Logo Design",
-      description: "Professional logo design to help your brand stand out.",
-      provider: "Alice Johnson",
+      title: "Blockchain development",
+      description: "Build decentralized platforms that are scalable",
+      provider: "KittyCrypto",
       ratings: 4.2,
       reviews: 120,
     },
     {
-      image: WorkshopImg1,
-      title: "Full-Stack Web Development",
-      description: "Custom web development for your business needs.",
-      provider: "John Smith",
+      image: FeaturedImg2,
+      title: "TokenBounds and Smart Wallet Creation",
+      description: "Turn your digital assets to real wallet assets",
+      provider: "Cyberpunk",
       ratings: 3.2,
       reviews: 51,
     },
     {
-      image: FeaturedImg1,
-      title: "Logo Design",
-      description: "Professional logo design to help your brand stand out.",
-      provider: "Alice Johnson",
+      image: FeaturedImg3,
+      title: "Web3 Design",
+      description: "Professional web3 design to help your blockchain stand out.",
+      provider: "Kitty designer",
       ratings: 4.2,
       reviews: 120,
     },
