@@ -5,8 +5,8 @@ TABLE OF CONTENTS:
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Use Cases For Adwuma](#use-cases)
-4. [User Stories For Adwuma](#user-stories)
+3. [Use Cases](#use-cases)
+4. [User Stories](#user-stories)
 5. [Scenarios](#scenarios)
 6. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
@@ -27,7 +27,7 @@ Adwuma is a platform that allows tech professionals to find projects, get hired 
 
 
 
- ### USE CASES FOR ADWUMA:
+ ### USE CASES:
 Tech Professional Use Case:
 
 Joy, a freelance developer from Africa, uses ADWUMA to find remote projects in blockchain development.
@@ -41,7 +41,7 @@ They hire Ifeoluwa, a Skilled Product Designer from Africa, and manage project m
 
 
 
-### USER STORIES FOR ADWUMA:
+### USER STORIES:
 As a Tech Professional:
 
 I want to easily find projects that match my skills and interests.
