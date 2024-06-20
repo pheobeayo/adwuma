@@ -14,7 +14,7 @@ const communities = () => {
       <div className="px-3">
         <Alert />
         <Search />
-        <Circles/>
+        <Circles />
       </div>
     </div>
   )

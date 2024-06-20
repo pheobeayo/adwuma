@@ -66,7 +66,7 @@ const Communities = () => {
     <div className="pt-11 mb-28">
       <div className="flex justify-between">
         <p className="text-sm text-[#2E0039] font-semibold">Popular Communities</p>
-        <Link href="/cicles" className="text-sm text-[#2E0039]">
+        <Link href="/communities" className="text-sm text-[#2E0039]">
           View all
         </Link>
       </div>

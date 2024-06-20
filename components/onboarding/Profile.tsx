@@ -4,6 +4,7 @@ import profileimage from "../../assets/alert/profileimage.svg";
 import LinkIcon from "../../assets/profile/linkicon.svg";
 import { PlusIcon } from "@heroicons/react/24/solid";
 
+
 type Props = {
   handleSubmit: () => void;
 };
@@ -35,7 +36,8 @@ const Profile = ({ handleSubmit }: Props) => {
   ];
 
   return (
-    <div className="bg-gradient-to-r from-[#9747FF] via-[#6A93FF] to-[#9747FF]">
+    <div className="bg-gradient-to-b from-[#2E0039] via-[#6A93FF] to-[#9747FF] relative">
+     
       <div className="pt-4">
         <h1 className="text-[#fff] font-[500] font-serif text-4xl text-center pt-3">
           Sign up
