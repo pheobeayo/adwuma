@@ -1,5 +1,6 @@
 import NavBar from '@/components/NavBar'
 import Alert from '@/components/homecomponents/Alert'
+import Messages from '@/components/messagecomponents/MessageBox'
 import SearchMessage from '@/components/messagecomponents/SearchMessage'
 import React from 'react'
 
@@ -11,8 +12,8 @@ const message = () => {
       </div>
       <div className="px-3">
         <Alert />
-        <SearchMessage/>
-        
+        <SearchMessage />
+        <Messages />
       </div>
     </div>
   )
