@@ -35,7 +35,7 @@ He completes milestones and receives payments in cryptocurrencies, ensuring secu
 
 Employer Use Case:
 
-Rubicon Consults, a startup based in Europe, posts a project on ADWUMA requiring expertise in Product Design.
+Themu, a company based in China, posts a project on ADWUMA requiring expertise in Product Design.
 They hire Ifeoluwa, a Skilled Product Designer from Africa, and manage project milestones and payments securely through the platform.
 
 
