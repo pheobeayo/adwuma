@@ -100,6 +100,7 @@ After the talent and project lead have reached a consensus, the talent will have
 This Dapp was deployed on PolygonAmoy and Subgraph.
 
 PolygonAmoy Deployment link: https://amoy.polygonscan.com/address/0x787725DEdC7Ff10263fC64311beE335Aa038C5B6#writeContract
+
 Subgraph Deployment link: https://thegraph.com/studio/subgraph/adwuma
 
 
