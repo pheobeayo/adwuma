@@ -12,9 +12,9 @@ Welcome to the ADWUMA repository! This README provides an overview of ADWUMA, it
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
 7. [Usage](#usage)
-8. [Contributing](#contributing)
 9. [Technologies](#Technologies)
-10. [License](#license)
+10. [Contributors](#contributors)
+11. [License](#license)
 
 # INTRODUCTION:
 Adwuma is a platform that allows tech professionals to find projects, get hired and get paid in Crypto as they complete projects in milestones.
@@ -102,6 +102,20 @@ This Dapp was deployed on PolygonAmoy and Subgraph.
 PolygonAmoy Deployment link: https://amoy.polygonscan.com/address/0x787725DEdC7Ff10263fC64311beE335Aa038C5B6#writeContract
 
 Subgraph Deployment link: https://thegraph.com/studio/subgraph/adwuma
+
+## CONTRIBUTORS:
+Contributors on this Project:
+
+Product Manager: Onukogu Ozioma
+
+Technical Project Manager/Developer: Egbu Joy
+
+Product designer: Halima Salisu
+
+Software Developer:Ifeoluwa Phoebe
+
+## LICENSE:
+MIT
 
 
 
