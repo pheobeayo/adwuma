@@ -6,7 +6,7 @@ import Image from "next/image";
 const Reviews = () => {
   const reviews = [
     {
-      image: ProfilePhoto,
+      image: ProfilePhoto2,
       name: "John Doe",
       review:
         "KittyCrypto transformed our DeFi platform with secure, efficient smart contracts and seamless cross-chain integration. Their proactive problem-solving and attention to detail were invaluable",
