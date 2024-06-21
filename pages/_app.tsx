@@ -9,7 +9,7 @@ import type { AppProps } from "next/app";
 import { http, WagmiProvider, createConfig } from "wagmi";
 import Layout from "../components/Layout";
 import "../styles/globals.css";
-import { celo, celoAlfajores } from "wagmi/chains";
+import { polygonAmoy} from "wagmi/chains";
 import { Poppins } from "next/font/google";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 
@@ -33,10 +33,9 @@ const connectors = connectorsForWallets(
 
 const config = createConfig({
   connectors,
-  chains: [celo, celoAlfajores],
+  chains: [ polygonAmoy],
   transports: {
-    [celo.id]: http(),
-    [celoAlfajores.id]: http(),
+    [polygonAmoy.id]: http(),
   },
 });
 
@@ -47,7 +46,7 @@ function App({ Component, pageProps }: AppProps) {
     <WagmiProvider config={config}>
       <QueryClientProvider client={queryClient}>
         <RainbowKitProvider theme={darkTheme({
-          accentColor: 'rgb(151, 71, 255)'
+          accentColor: 'rgb(46, 0, 57)'
         })} >
           <div className={poppins.className}>
             <Layout>
