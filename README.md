@@ -79,7 +79,21 @@ You need a node version and a coding environment.
 ## INSTALLATION:
 You will need to fork or clone the repository. You will cd into the folder adwuma,  Then you will install all packages using the "npm install" and then  run the command "npm run dev" 
 
-You will have the app running locally on your local host
+You will have the app running locally on your local host.
+
+## USAGE:
+A user will have to sign up and then connect the wallet....
+
+Then the you can view talents, gigs and communities,
+
+exchange skills
+hire talents for web3 projects
+attend workshops
+join web3 communities
+
+for every project, to hire a talent, you can send a message to the talent after viewing the profile of the talent
+
+After the talent and project lead have reached a consensus, the talent will have to fill a contract form which has milestones for each project to make it easier and a talent can proceed and get the job done.
 
 
 
