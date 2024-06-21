@@ -99,7 +99,9 @@ After the talent and project lead have reached a consensus, the talent will have
 
 ## TECHNOLOGIES:
 
-Next js, Wagmi, Rainbowkit, Viem, Tailwind CSS for styling, zk pass, subgraph.
+Figma for Design Next js, Wagmi, Rainbowkit, Viem, Tailwind CSS for styling, zk pass, subgraph.
+
+Language used : Typescript
 
 ## DEPLOYMENT:
 
@@ -122,7 +124,7 @@ Technical Project Manager/Developer: Egbu Joy
 
 Product designer: Halima Salisu
 
-Software Developer:Ifeoluwa Phoebe
+Software Developer:Ifeoluwa Sanni
 
 ## LICENSE:
 MIT
