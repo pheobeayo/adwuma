@@ -14,7 +14,7 @@ const Onboarding = ({ onboarded, setOnboarded }: Props) => {
 
   setTimeout(function () {
     setTimePassed(true);
-  }, 10000); //For a little delay
+  }, 3500); //For a little delay
 
   const handleSubmit = () => {
     setOnboarded(true);
