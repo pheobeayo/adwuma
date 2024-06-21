@@ -64,6 +64,22 @@ Scenario: Joy, a developer, completes a milestone for a blockchain project throu
 Action: The milestone is reviewed and approved by the employer.
 Outcome: John receives payment in cryptocurrencies directly into his ADWUMA wallet.
 
+## GETTING STARTED:
+Getting Started with Aduwa is quite easy....
+
+As a mobile application, which you can also use on Personal computers, 
+
+On opening the app, there is a splash screen which will take you to some other onboarding screens that give overview of Adwuma.
+
+Then you as a talent or project lead will sign up with all the details required, get connected with your wallet and get started... 
+
+## PREREQUISITES:
+You need a node version and a coding environment.
+
+## INSTALLATION:
+You will need to fork or clone the repository. You will cd into the folder adwuma,  Then you will install all packages using the "npm install" and then  run the command "npm run dev" 
+
+You will have the app running locally on your local host
 
 
 
