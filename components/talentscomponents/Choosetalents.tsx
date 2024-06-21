@@ -6,7 +6,6 @@ import hackergirl from "../../assets/talents/hackergirl.svg";
 import joycoder from "../../assets/talents/joycoder.svg";
 import web3miracle from "../../assets/talents/web3miracle.svg";
 import { StarIcon } from "@heroicons/react/24/solid";
-import zkbutton from "../../assets/alert/zkbutton.svg";
 import Image from "next/image";
 import { Swiper, SwiperSlide } from "swiper/react";
 
