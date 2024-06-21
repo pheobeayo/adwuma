@@ -118,9 +118,7 @@ Product link : https://adwumaafricantalents.vercel.app/
 ## CONTRIBUTORS:
 Contributors on this Project:
 
-Product Manager: Onukogu Ozioma
-
-Technical Project Manager/Developer: Egbu Joy
+Technical Project Manager: Egbu Joy
 
 Product designer: Halima Salisu
 
